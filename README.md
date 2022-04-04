@@ -7,3 +7,7 @@ Accuracy score after with new data 97.77%
 # Randomn Forest
 Implementation of randomn forest with built-in Random Forest Classifier model in Scikit-Learn.
 I then trained  it using the provided dataset for prediction and I evaluated its result accuracy 90.0%
+
+# SVM
+Using SVM classifier and checking the accuracy I added confussion matrix for accuracy and used crosed validation.
+Accuracy score of 98% 
